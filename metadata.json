@@ -1,0 +1,8 @@
+{
+  "name": "Logística - Sistema de Gestión y Rastreo de Flota",
+  "description": "Plataforma integral de gestión logística, seguimiento de envíos en tiempo real, control de flota vehicular, almacenes y despacho inteligente.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
